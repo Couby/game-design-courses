@@ -72,7 +72,7 @@ I lacked of time to resume this course. Having simultaneously the two courses at
 Maybe I'll resume here at a next session...
 
 ## License
-![CC-BY](https://github.com/Couby/game-design-courses/raw/master/Images/CC-BY_icon.svg) Frédéric "Couby" Coubard
+![CC-BY](/Images/CC-BY_icon.png) Frédéric "Couby" Coubard
 *Osez le jeu !*
 
 
